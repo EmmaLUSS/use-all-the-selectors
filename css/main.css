@@ -45,7 +45,7 @@ ol li {
 }
 
 .types li:nth-child(even) {
-   background-color: #586e75;
+  background-color: #586e75;
 }
 
 li .types {
