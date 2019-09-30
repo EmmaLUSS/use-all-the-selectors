@@ -34,10 +34,7 @@ a {
 
 ol li {
   color: #719e47;
-}
-
-ol li {
-  color: #2aa198;
+  color: #2aa198
 }
 
 li .types odd {
@@ -48,6 +45,6 @@ li .types even {
    background-color: #586e75;
 }
 
-li .types  {
+li .types {
   background-color: #d04b16;
 }
