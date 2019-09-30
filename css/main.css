@@ -17,7 +17,7 @@ ul, nav {
 .wrapper {
   background-color: #eee8d5;
 }
-contents, faves, facts, types {
+#contents, #faves, #facts, #types {
   color: #93a1a1;
 }
 .dfn {
@@ -32,11 +32,11 @@ rel="external" {
   background-color: #2694d8;
 }
 
-ol/li {
+ol li {
   color: #719e47;
 }
 
-ol/li {
+ol li {
   color: #2aa198;
 }
 
@@ -48,6 +48,6 @@ li .types even {
    background-color: #586e75;
 }
 
-li .types 3rd {
+li .types  {
   background-color: #d04b16;
 }
