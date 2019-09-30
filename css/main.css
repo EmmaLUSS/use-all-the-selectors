@@ -37,11 +37,11 @@ ol li {
   color: #2aa198;
 }
 
-li .types odd {
+li .types:nth-chlid(odd) {
   background-color: #657ba3;
 }
 
-li .types even {
+li .types:nth-chlid(even) {
    background-color: #586e75;
 }
 
