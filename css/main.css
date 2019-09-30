@@ -17,3 +17,10 @@ ul, nav {
 .wrapper {
   background-color: #eee8d5;
 }
+contents, faves, facts, types {
+  color: #93a1a1;
+}
+.dfn {
+  background-color: #b58900;
+  color; #fff;
+}
